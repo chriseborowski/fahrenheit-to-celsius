@@ -2,6 +2,8 @@
 
 [View demo](https://replit.com/@chriseborowski/fahrenheit-celsius-temperature-converter) • [Report bug](https://github.com/chriseborowski/fahrenheit-to-celsius/issues) • [Request feature](https://github.com/chriseborowski/fahrenheit-to-celsius/issues) • [DM author](https://twitter.com/chriseborowski)
 
+![Live demo](https://github.com/chriseborowski/fahrenheit-to-celsius/blob/main/live_demo.png)
+
 ## About
 
 An interactive Fahrenheit to Celsius temperature converter in Python. Enter the desired temperature in Fahrenheit and convert it into Celsius in a second!
