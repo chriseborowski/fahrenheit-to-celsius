@@ -1,6 +1,6 @@
 # Fahrenheit to Celsius temperature converter in Python
 
-[View demo](https://replit.com/@chriseborowski/fahrenheit-celsius-temperature-converter) • [Report bug](https://github.com/chriseborowski/fahrenheit-to-celsius/issues) • [Request feature](https://github.com/chriseborowski/fahrenheit-to-celsius/issues) • [DM author](https://twitter.com/chriseborowski)
+[View demo](https://replit.com/@chriseborowski/Fahrenheit-to-Celsius-temperature-converter) • [Report bug](https://github.com/chriseborowski/fahrenheit-to-celsius/issues) • [Request feature](https://github.com/chriseborowski/fahrenheit-to-celsius/issues) • [DM author](https://twitter.com/chriseborowski)
 
 ![Live demo](https://github.com/chriseborowski/fahrenheit-to-celsius/blob/main/live_demo.png)
 
