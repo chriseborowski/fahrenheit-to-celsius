@@ -47,6 +47,6 @@ Distributed under the MIT License. See `license.txt` for more information.
 
 Chris Borowski
 
-Follow me @chriseborowski on [GitHub](https://github.com/chriseborowski) / [Replit](https://replit.com/@chriseborowski/) / [Twitter](https://twitter.com/chriseborowski)
+Follow me *@chriseborowski* on [GitHub](https://github.com/chriseborowski) / [Replit](https://replit.com/@chriseborowski/) / [Twitter](https://twitter.com/chriseborowski)
 
 Project repository link: [Fahrenheit to Celsius temperature converter in Python](https://github.com/chriseborowski/fahrenheit-to-celsius)
