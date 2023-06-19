@@ -10,4 +10,4 @@ print(f"You entered: {user_query} F")
 
 # Convert the user's input and print the result
 user_answer = str(fahrenheit_to_celsius(user_query))
-print(f"{user_query} degrees in Fahrenheit is {user_answer} degrees Celsius.")
+print(f"{user_query} degrees Fahrenheit is {user_answer} degrees Celsius.")
