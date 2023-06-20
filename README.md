@@ -14,6 +14,26 @@ For a video clip demonstrating the game, click [here](https://twitter.com/chrise
 
 ## Getting started
 
+### JavaScript instructions
+
+1. Clone the repository to your machine
+
+`git clone https://github.com/chriseborowski/celsius-to-fahrenheit`
+
+2. Make sure you have [Node.js](https://nodejs.org/en), [npm](https://www.npmjs.com/), and the [readline-sync](https://github.com/anseki/readline-sync) package (see below) installed
+
+`npm install readline-sync`
+
+3. Run the code in your preferred code editor (e.g., VSCode) or Terminal/Bash window (sample code below)
+
+`node celsius_to_fahrenheit.js`
+
+4. Enter the temperature in Celsius to be converted to Fahrenheit
+
+5. The converted temperature in Fahrenheit will be displayed.
+
+### Python instructions
+
 1. Clone the repository to your machine
 
 `git clone https://github.com/chriseborowski/fahrenheit-to-celsius`
