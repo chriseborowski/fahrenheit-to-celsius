@@ -48,16 +48,12 @@ For a video clip demonstrating the game, click [here](https://twitter.com/chrise
 
 ## Roadmap
 
-Steps completed
+The development has been completed.
 
-* Initial version released 
-* Live demo on Replit created 
-* README.md description created
-
-Steps to be completed
-
-* Add support for float inputs
-* Add message support for string inputs
+- [x] Initial version released 
+- [x] Live demo on Replit created 
+- [x] README.md description created
+- [x] Added support for float inputs
 
 ## License
 
