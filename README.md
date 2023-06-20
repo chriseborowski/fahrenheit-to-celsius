@@ -70,3 +70,4 @@ Chris Borowski
 Follow me *@chriseborowski* on [GitHub](https://github.com/chriseborowski) / [Replit](https://replit.com/@chriseborowski/) / [Twitter](https://twitter.com/chriseborowski)
 
 Project repository link: [Fahrenheit to Celsius temperature converter in Python](https://github.com/chriseborowski/fahrenheit-to-celsius)
+* versions: [JavaScript](https://github.com/chriseborowski/fahrenheit-to-celsius/blob/main/fahrenheit_to_celsius.js) • [Python](https://github.com/chriseborowski/fahrenheit-to-celsius/blob/main/fahrenheit_to_celsius.py)
